@@ -14,6 +14,8 @@ public class Atendente extends Pessoa {
 	public void setMatricula(int matricula) {
 		this.matricula = matricula;
 	}
+	
+	
 
 
 }
