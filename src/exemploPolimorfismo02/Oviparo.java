@@ -21,7 +21,7 @@ public class Oviparo extends Animal {
 
 	}
 
-	@Override
+	
 	public String toString() {
 		return "Animal [especie=" + especie + ", peso=" + peso + ", idade=" + idade + ", numMembros=" + numMembros
 				+ ", tipo=" + tipo + "]";

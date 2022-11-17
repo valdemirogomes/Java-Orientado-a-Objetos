@@ -7,7 +7,7 @@ public class LeiteQuente extends Bebida{
 	
 	@Override
 	public void preparar() {
-		System.out.println("Pegando copor ");
+		System.out.println("Pegando o copo ");
 		System.out.println("Colocando leite no copo ");
 		
 	}
